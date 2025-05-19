@@ -9,5 +9,8 @@ accountEmail = "abcdotcom"
 accountPass = "1233"
 accountCity = "Ctg"
 
+/* Never use var and default
+ Always use let and const */
+
 // console.log(accountId);
 console.table([accountId, accountEmail, accountPass, accountCity,a])
