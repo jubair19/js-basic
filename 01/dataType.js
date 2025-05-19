@@ -84,4 +84,30 @@
 //       console.log("jubair!99");    
 // }
 
+// +++++++++++++++++
+
+// Stack (Primitive), Heap (non-primitive)
+
+// let strone = "Jubair"
+// let strtwo = strone
+// strtwo = "Jas189"
+// console.log(strone);
+// console.log(strtwo);
+// dont change it
+
+
+// let userOne = {
+//     name : "Jubair",
+// }
+// console.log(userOne)
+// let userTwo = userOne
+// userTwo.name = "Jas19"
+// console.log(userOne)
+// change it
+
+
+
+
+
+
 
